@@ -1,4 +1,4 @@
-# GitDemo
+# 📢 GitDemo
 
 Ah Voyager! Nothing interesting made in this repository. Just made to learn Git and GitHub.
 
